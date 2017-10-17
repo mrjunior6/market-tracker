@@ -11,7 +11,7 @@ gem 'rails', '~> 5.1.4'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
-gem 'bittrex', :path => "/home/junior/rails_project/gem/bittrex"
+gem 'bittrex', :git => "git://github.com/mrjunior6/bittrex.git"
 gem 'jquery-rails'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
